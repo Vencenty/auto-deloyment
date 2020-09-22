@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2304b2a6-7086-42bc-9c7e-cdfdbe856ae4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hooks.json" beforeDir="false" afterPath="$PROJECT_DIR$/hooks.json" afterDir="false" />
-    </list>
+    <list default="true" id="2304b2a6-7086-42bc-9c7e-cdfdbe856ae4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +23,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -39,9 +38,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600787950687</updated>
-      <workItem from="1600787951776" duration="1294000" />
+      <workItem from="1600787951776" duration="1365000" />
     </task>
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\bash.exe" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -51,6 +53,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1018" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1600788101207" />
+    <state x="1060" y="440" key="FileChooserDialogImpl" timestamp="1600789383385">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1600789383385" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1600789383895">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1600789383895" />
     <state x="92" y="92" width="2376" height="1216" key="dock-window-1" timestamp="1600788116209">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
