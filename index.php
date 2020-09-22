@@ -1,0 +1,3 @@
+<?php
+
+exit("process exit");
