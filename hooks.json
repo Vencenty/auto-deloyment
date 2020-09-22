@@ -1,0 +1,31 @@
+[
+  {
+    "id": "auto-deloyment",
+    "execute-command": "/root/scripts/do.sh",
+    "command-working-directory": "/var/www/html/auto-deloyment",
+    "trigger-rule": {
+      "or": [
+        {
+          "match": {
+            "type": "value",
+            "value": "refs/heads/release",
+            "parameter": {
+              "source": "payload",
+              "name": "ref"
+            }
+          }
+        },
+        {
+          "match": {
+            "type": "value",
+            "value": "refs/heads/test",
+            "parameter": {
+              "source": "payload",
+              "name": "ref"
+            }
+          }
+        }
+      ]
+    }
+  }
+]
